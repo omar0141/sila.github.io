@@ -1,0 +1,15 @@
+{
+  "sila-admin-portal": "لوحة تحكم Sila",
+  "welcome-back": "مرحبًا بعودتك!",
+  "sign-in": "تسجيل الدخول",
+  "enter-your-credentials-to-access-the-admin-panel": "أدخل بيانات الاعتماد الخاصة بك للوصول إلى لوحة الإدارة",
+  "user-name": "اسم المستخدم",
+  "enter-your-user-name": "أدخل اسم المستخدم الخاص بك",
+  "please-enter-your-user-name": "يرجى إدخال اسم المستخدم الخاص بك",
+  "password": "كلمة المرور",
+  "enter-your-password": "أدخل كلمة المرور الخاصة بك",
+  "please-enter-your-password": "يرجى إدخال كلمة المرور الخاصة بك",
+  "password-must-be-at-least-6-characters": "يجب أن تكون كلمة المرور مكونة من 6 أحرف على الأقل",
+  "remember-me": "تذكرني",
+  "secure-access-to-your-administrative-dashboard-manage-your-business-with-confidence": "الوصول الآمن إلى لوحة التحكم الإدارية الخاصة بك، إدارة عملك بثقة"
+}
