@@ -11,5 +11,10 @@
   "please-enter-your-password": "يرجى إدخال كلمة المرور الخاصة بك",
   "password-must-be-at-least-6-characters": "يجب أن تكون كلمة المرور مكونة من 6 أحرف على الأقل",
   "remember-me": "تذكرني",
-  "secure-access-to-your-administrative-dashboard-manage-your-business-with-confidence": "الوصول الآمن إلى لوحة التحكم الإدارية الخاصة بك، إدارة عملك بثقة"
+  "secure-access-to-your-administrative-dashboard-manage-your-business-with-confidence": "الوصول الآمن إلى لوحة التحكم الإدارية الخاصة بك، إدارة عملك بثقة",
+  "groups": "المجموعات",
+  "departments": "الأقسام",
+  "users": "المستخدمون",
+  "jobs": "الوظائف",
+  "user-management": "إدارة المستخدمين"
 }

@@ -11,5 +11,10 @@
     "please-enter-your-password": "Please enter your password",
     "password-must-be-at-least-6-characters": "Password must be at least 6 characters",
     "remember-me": "Remember me",
-    "secure-access-to-your-administrative-dashboard-manage-your-business-with-confidence": "Secure access to your administrative dashboard, manage your business with confidence"
+    "secure-access-to-your-administrative-dashboard-manage-your-business-with-confidence": "Secure access to your administrative dashboard, manage your business with confidence",
+    "groups": "Groups",
+    "departments": "Departments",
+    "users": "Users",
+    "jobs": "Jobs",
+    "user-management": "User Management"
 }
