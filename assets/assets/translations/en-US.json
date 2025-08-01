@@ -123,5 +123,7 @@
   "maintenance-mode": "Maintenance mode",
   "active": "Active",
   "unactive": "Un Active",
-  "reset": "Reset"
+  "reset": "Reset",
+  "excel": "Excel",
+  "status": "Status"
 }
