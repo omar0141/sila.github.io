@@ -125,5 +125,15 @@
   "unactive": "Un Active",
   "reset": "Reset",
   "excel": "Excel",
-  "status": "Status"
+  "status": "Status",
+  "refresh": "Refresh",
+  "theme_switch": "Theme Switch",
+  "language_switch": "Language Switch",
+  "logout": "Logout",
+  "are-you-sure-you-want-to-log-out?": "Are you sure you want to log out?",
+  "actions": "Actions",
+  "user-activated": "User activated",
+  "user-deactivated": "User deactivated",
+  "user-reset": "User reset",
+  "user-reset-failed": "User reset failed"
 }
