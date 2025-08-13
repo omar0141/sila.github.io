@@ -164,5 +164,12 @@
   "channel-category-inactive": "فئة قناة غير نشطة",
   "channel-member-active": "عضو قناة نشط",
   "channel-member-inactive": "عضو قناة غير نشط",
-  "channel-add": "إضافة قناة"
+  "channel-add": "إضافة قناة",
+  "inactive": "غير نشط",
+  "is-private": "هل هي خاصة",
+  "category-id": "معرف الفئة",
+  "is-team-leader": "هل هو قائد الفريق",
+  "user-id": "معرف المستخدم",
+  "category-description": "وصف الفئة",
+  "members": "الأعضاء"
 }

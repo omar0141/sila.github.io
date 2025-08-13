@@ -164,5 +164,12 @@
   "channel-category-inactive": "Channel Category Inactive",
   "channel-member-active": "Channel Member Active",
   "channel-member-inactive": "Channel Member Inactive",
-  "channel-add": "Add Channel"
+  "channel-add": "Add Channel",
+  "inactive": "Inactive",
+  "is-private": "Is Private",
+  "category-id": "Category ID",
+  "is-team-leader": "Is Team Leader",
+  "user-id": "User ID",
+  "category-description": "Category Description",
+  "members": "Members"
 }
