@@ -171,5 +171,6 @@
   "is-team-leader": "Is Team Leader",
   "user-id": "User ID",
   "category-description": "Category Description",
-  "members": "Members"
+  "members": "Members",
+  "login-successful": "Login successful"
 }
