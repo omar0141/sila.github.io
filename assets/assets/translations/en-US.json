@@ -172,5 +172,6 @@
   "user-id": "User ID",
   "category-description": "Category Description",
   "members": "Members",
-  "login-successful": "Login successful"
+  "login-successful": "Login successful",
+  "channel-member-admin-team-leader-error": "A channel member cannot be both an admin and a team leader."
 }
