@@ -173,5 +173,6 @@
   "category-description": "Category Description",
   "members": "Members",
   "login-successful": "Login successful",
-  "channel-member-admin-team-leader-error": "A channel member cannot be both an admin and a team leader."
+  "channel-member-admin-team-leader-error": "A channel member cannot be both an admin and a team leader.",
+  "please-enter-a-valid-username": "Please enter a valid username"
 }

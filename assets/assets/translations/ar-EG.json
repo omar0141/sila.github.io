@@ -173,5 +173,6 @@
   "category-description": "وصف الفئة",
   "members": "الأعضاء",
   "login-successful": "تم تسجيل الدخول بنجاح",
-  "channel-member-admin-team-leader-error": "لا يمكن أن يكون عضو القناة مسؤولًا وقائد فريق في نفس الوقت."
+  "channel-member-admin-team-leader-error": "لا يمكن أن يكون عضو القناة مسؤولًا وقائد فريق في نفس الوقت.",
+  "please-enter-a-valid-username": "يرجى إدخال اسم مستخدم صالح"
 }
