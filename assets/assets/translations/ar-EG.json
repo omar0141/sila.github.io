@@ -174,5 +174,11 @@
   "members": "الأعضاء",
   "login-successful": "تم تسجيل الدخول بنجاح",
   "channel-member-admin-team-leader-error": "لا يمكن أن يكون عضو القناة مسؤولًا وقائد فريق في نفس الوقت.",
-  "please-enter-a-valid-username": "يرجى إدخال اسم مستخدم صالح"
+  "please-enter-a-valid-username": "يرجى إدخال اسم مستخدم صالح",
+  "companyRegstirationID": "معرف تسجيل الشركة",
+  "company": "الشركة",
+  "register": "تسجيل",
+  "user-registered": "تم تسجيل المستخدم بنجاح",
+  "user-register-failed": "فشل تسجيل المستخدم",
+  "company-registered": "تم تسجيل الشركة بنجاح"
 }

@@ -174,5 +174,11 @@
   "members": "Members",
   "login-successful": "Login successful",
   "channel-member-admin-team-leader-error": "A channel member cannot be both an admin and a team leader.",
-  "please-enter-a-valid-username": "Please enter a valid username"
+  "please-enter-a-valid-username": "Please enter a valid username",
+  "companyRegstirationID": "Company Registration ID",
+  "company": "Company",
+  "register": "Register",
+  "user-registered": "User registered",
+  "user-register-failed": "User registration failed",
+  "company-registered": "Company registered"
 }
