@@ -180,5 +180,9 @@
   "register": "Register",
   "user-registered": "User registered",
   "user-register-failed": "User registration failed",
-  "company-registered": "Company registered"
+  "company-registered": "Company registered",
+  "group-name": "Group Name",
+  "department-name": "Department Name",
+  "job-name": "Job Name",
+  "user": "User"
 }

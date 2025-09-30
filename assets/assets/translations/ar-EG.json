@@ -180,5 +180,9 @@
   "register": "تسجيل",
   "user-registered": "تم تسجيل المستخدم بنجاح",
   "user-register-failed": "فشل تسجيل المستخدم",
-  "company-registered": "تم تسجيل الشركة بنجاح"
+  "company-registered": "تم تسجيل الشركة بنجاح",
+  "group-name": "اسم المجموعة",
+  "department-name": "اسم القسم",
+  "job-name": "اسم الوظيفة",
+  "user": "مستخدم"
 }
