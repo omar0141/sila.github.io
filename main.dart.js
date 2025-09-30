@@ -115351,6 +115351,9 @@ aJ4(a,b){var s=0,r=A.p(t.D),q,p=this,o,n,m
 var $async$zv=A.q(function(c,d){if(c===1)return A.m(d,r)
 while(true)switch(s){case 0:a.B(0,"sfdata_grid_index")
 a.B(0,"action")
+a.B(0,"DepartmentName")
+a.B(0,"JobName")
+a.B(0,"GroupName")
 o=B.aM.jU(a,null)
 n=b?"Edit User":"New User"
 s=3
