@@ -37671,7 +37671,7 @@ while(true)switch(s){case 0:s=2
 return A.w(A.apO(),$async$DY)
 case 2:if($.y==null)A.b9W()
 $.y.toString
-q=A.bet("database1.db").e
+q=A.bet("silapaneldb.db").e
 q===$&&A.a()
 s=3
 return A.w(q,$async$DY)
@@ -142473,7 +142473,7 @@ s($,"bI3","bnd",()=>17976931348623157e292)
 r($,"bF1","bls",()=>A.bDc())
 s($,"bJH","cM",()=>$.blr())
 r($,"bEi","a4",()=>A.b8B(null,t.uK))
-s($,"bEt","Rw",()=>new A.anr(A.bet("database1.db"),A.b(["TableVersion"],t.s)))
+s($,"bEt","Rw",()=>new A.anr(A.bet("silapaneldb.db"),A.b(["TableVersion"],t.s)))
 r($,"bcL","fu",()=>$.Sa+"/General/GeneralAPI")
 s($,"bEJ","bll",()=>new A.aoO())
 s($,"bGf","bm4",()=>new A.aAL())
