@@ -184,5 +184,13 @@
   "group-name": "اسم المجموعة",
   "department-name": "اسم القسم",
   "job-name": "اسم الوظيفة",
-  "user": "مستخدم"
+  "user": "مستخدم",
+  "change-password": "تغيير كلمة المرور",
+  "change": "تغيير",
+  "current-password": "كلمة المرور الحالية",
+  "new-password": "كلمة المرور الجديدة",
+  "confirm-password": "تأكيد كلمة المرور",
+  "passwords-do-not-match": "كلمات المرور غير متطابقة",
+  "please-fill-all-fields": "يرجى ملء جميع الحقول",
+  "error-occurred": "حدث خطأ"
 }
